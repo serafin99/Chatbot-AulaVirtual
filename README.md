@@ -29,6 +29,14 @@ También podés usar este botón para abrirlo al instante:
 
 ---
 
+## 📚 Referencias
+
+- OpenAI (2023). ChatGPT. https://chat.openai.com/  
+- Google Colab. https://colab.research.google.com/  
+- Foucault, M. (1975). *Vigilar y Castigar*. Siglo XXI  
+- Durkheim, E. (1895). *Las reglas del método sociológico*  
+- Materiales del curso de *Inteligencia Artificial: Generación de Prompts*, Coder House
+
 ## 👥 Autor
 
 - Serafin Gonzalez  
