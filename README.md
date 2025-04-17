@@ -25,7 +25,7 @@ Abrí `DudaceroIA_Chatbot.ipynb` directamente en [Google Colab](https://colab.re
 
 También podés usar este botón para abrirlo al instante:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPO/blob/main/DudaceroIA_Chatbot.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/serafin99/Chatbot-AulaVirtual/blob/main/DudaceroIA_Chatbot.ipynb)
 
 ---
 
