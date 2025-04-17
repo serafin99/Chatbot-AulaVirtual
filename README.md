@@ -14,14 +14,18 @@ DUDACERO.IA responde preguntas frecuentes sobre textos, fechas, criterios de eva
 
 ## 🗂 Archivos del proyecto
 
-- `DUDACERO_IA.ipynb`: cuaderno principal del chatbot.
+- `DudaceroIA_Chatbot.ipynb`: cuaderno principal del chatbot.
 - `Preentrega1.pdf`: presentación preliminar del proyecto.
 
 ---
 
 ## ▶️ Cómo ejecutar el proyecto
 
-Abrí `DUDACERO_IA.ipynb` en [Google Colab](https://colab.research.google.com/) o en tu entorno local con Jupyter Notebook y ejecutá celda por celda.
+Abrí `DudaceroIA_Chatbot.ipynb` directamente en [Google Colab](https://colab.research.google.com/) o en tu entorno local con Jupyter Notebook, ejecutando celda por celda.
+
+También podés usar este botón para abrirlo al instante:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPO/blob/main/DudaceroIA_Chatbot.ipynb)
 
 ---
 
