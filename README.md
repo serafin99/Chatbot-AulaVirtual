@@ -25,7 +25,7 @@ Abrí `DUDACERO_IA.ipynb` en [Google Colab](https://colab.research.google.com/) 
 
 ---
 
-## 👥 Autores
+## 👥 Autor
 
 - Serafin Gonzalez  
 
